@@ -1,12 +1,14 @@
+
 # Python Online Bootcamp
 
 Till this moment we have experienced three sessions of the class and one session of TA.
 
 List of class sessions:
-- Session 1
-- Session 2
-- TA 1
-- Session 3
+- [Session 1](#session-1)
+- [Session 2](#session-2)
+-- [2.5 Gang of Three Methods](#25-gang-of-three-methods)
+- [TA 1](#ta-1)
+- [Session 3](#session-3)
 
 
 ---
@@ -20,7 +22,7 @@ issubclass and isinstance functions
 ### 2.2 Type Meta-Class
 ### 2.3 Overloading vs. Overwriting
 ### 2.4 Inheritance vs. Instantiation from Meta-Class
-### 2.5 Gang of Three Methods!
+### 2.5 Gang of Three Methods
 - \_\_new__
 -	\_\_init__
 -	\_\_call__
