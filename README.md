@@ -6,7 +6,7 @@ Till this moment we have experienced three sessions of the class and one session
 List of class sessions:
 - [Session 1](#session-1)
 - [Session 2](#session-2)
--- [2.5 Gang of Three Methods](#25-gang-of-three-methods)
+    - [2.5 Gang of Three Methods](#25-gang-of-three-methods)
 - [TA 1](#ta-1)
 - [Session 3](#session-3)
 
