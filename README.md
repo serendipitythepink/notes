@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+# Python Online Bootcamp
 
-You can use the [editor on GitHub](https://github.com/serendipitythepink/notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Till this moment we have experienced three sessions of the class and one session of TA.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+List of class sessions:
+- Session 1
+- Session 2
+- TA 1
+- Session 3
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+## Session 2
 
-# Header 1
-## Header 2
-### Header 3
+----
 
-- Bulleted
-- List
+### 2.1 Object Class
+issubclass and isinstance functions
+### 2.2 Type Meta-Class
+### 2.3 Overloading vs. Overwriting
+### 2.4 Inheritance vs. Instantiation from Meta-Class
+### 2.5 Gang of Three Methods!
+- \_\_new__
+-	\_\_init__
+-	\_\_call__
 
-1. Numbered
-2. List
+### 2.6 When to Define Meta-Class
+### 2.7 Gang of Three Method Types!
+- static methods
+- object methods
+- class methods
 
-**Bold** and _Italic_ and `Code` text
+### 2.8 Design Patterns
+- Structural
+- Behavioral
+- Creational
 
-[Link](url) and ![Image](src)
-```
+### 2.9 Singleton Design Pattern
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
+## TA 1
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/serendipitythepink/notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+### TA1.1 Method Resolution Order
+### TA1.2 Factory Design Pattern
+### TA1.3 Abstract Classes (_abc_ Module)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+
+## Session 3
+
+---
+
+### 3.1 Observer Design Pattern
+### 3.2 UML
+### 3.3 BFS Algorithm for Graph Class of Previous Session
+### 3.4 Coupling (IOC)
+### 3.5 Abstract Class
+### 3.6 Closure in Python
+### 3.7 Linter in Text Editors
+### 3.8 Abstract Classes Vs. Interfaces
+### 3.9 Decorators
+### 3.10 Decorators with Arguments
+
