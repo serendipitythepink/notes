@@ -5,9 +5,7 @@ Till this moment we have experienced three sessions of the class and one session
 
 List of class sessions:
 - [Session 2](#session-2)
-    - [2.1 Object Class](#21-object-class)
-    - [2.2 Type Meta-Class](#22-type-meta-class)
-    - [2.3 Overloading vs. Overwriting](#23-overloading-vs-overwriting)
+    - [2.1 Object Class](#21-object-class), [2.2 Type Meta-Class](#22-type-meta-class), [2.3 Overloading vs. Overwriting](#23-overloading-vs-overwriting)
     - [2.4 Inheritance vs. Instantiation from Meta-Class](#24-inheritance-vs-instantiation-from-meta-class)
     - [2.5 Gang of Three Methods](#25-gang-of-three-methods)
     - [2.6 When to Define Meta-Class](#26-when-to-define-meta-class)
