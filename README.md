@@ -22,7 +22,7 @@ List of class sessions:
 
     - [3.1 Observer Design Pattern](#31-observer-design-pattern)
     - [3.2 UML](#32-uml)
-    - [3.3 BFS Algorithm for Graph Class of Previous Session](#33 bfs-algorithm-for-graph-class-of-previous-session)
+    - [3.3 BFS Algorithm for Graph Class of Previous Session](#33-bfs-algorithm-for-graph-class-of-previous-session)
     - [3.4 Coupling (IOC)](#34-coupling-ioc)
     - [3.5 Abstract Class](#35-abstract-class)
     - [3.6 Closure in Python](#36-closure-in-python)
