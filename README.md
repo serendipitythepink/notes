@@ -20,11 +20,16 @@ List of class sessions:
 
 ### 2.1 Object Class
 issubclass and isinstance functions
+'''python
+issubclass(int, object)
+'''
+
 ### 2.2 Type Meta-Class
 ### 2.3 Overloading vs. Overriding
-**In python, we have NO Overloading at all!** (Beacause of the \**args* and \**kwargs*)
+*Warning*:**In python, we have NO Overloading at all!** (Beacause of the \**args* and \**kwargs*)
 - Overloading: Overloading occurs when two or more methods in one class have the same method name but different parameters.
 - Overwriting: Overriding means having two methods with the same name and parameters but differernt definition; One of the methods is in the parent class and the other is in the child class.
+
 ### 2.4 Inheritance vs. Instantiation from Meta-Class
 ### 2.5 Gang of Three Methods
 - \_\_new__
