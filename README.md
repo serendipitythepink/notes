@@ -19,7 +19,7 @@ List of class sessions:
 ----
 
 ### 2.1 Object Class
-issubclass and isinstance functions
+**issubclass** and **isinstance** functions
 ```python
 int_instance = 13
 str_instance = 'hi!'
