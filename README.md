@@ -44,6 +44,28 @@ print(isinstance(str_instance, str)) #True
 ```
 
 ### 2.2 Type Meta-Class
+```pyhton
+print(isinstance(object, type)) # True
+print(isinstance(type, object)) # True
+print(issubclass(object, type)) # False
+print(issubclass(type, object)) # True
+
+print(issubclass(object, object)) # True
+print(issubclass(object, object)) # True
+
+print(type(object)) # <class 'type'>
+print(type(type)) # <class 'type'>
+
+print(isinstance(type, object)) # True
+print(issubclass(object, type)) # False
+print(type(str)) # <class 'type'>
+print(type(int)) # <class 'type'>
+
+int_instance = 13
+print(isinstance(int_instance, type)) # False
+print(issubclass(int_instance, type)) # Error
+```
+
 ### 2.3 Overloading vs. Overriding
 *Warning*: **In python, we have NO Overloading at all!** (Beacause of the \**args* and \**kwargs*)
 - Overloading: Overloading occurs when two or more methods in one class have the same method name but different parameters.
