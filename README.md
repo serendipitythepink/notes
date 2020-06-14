@@ -44,7 +44,7 @@ print(isinstance(str_instance, str)) #True
 ```
 
 ### 2.2 Type Meta-Class
-```pyhton
+```python
 print(isinstance(object, type)) # True
 print(isinstance(type, object)) # True
 print(issubclass(object, type)) # False
