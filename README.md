@@ -51,7 +51,7 @@ print(issubclass(object, type)) # False
 print(issubclass(type, object)) # True
 
 print(issubclass(object, object)) # True
-print(issubclass(object, object)) # True
+print(issubclass(type, type)) # True
 
 print(type(object)) # <class 'type'>
 print(type(type)) # <class 'type'>
