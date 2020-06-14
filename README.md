@@ -24,23 +24,23 @@ issubclass and isinstance functions
 int_instance = 13
 str_instance = 'hi!'
 
-issubclass(int, object)
-issubclass(int_instance, object)
-issubclass(int, int)
-issubclass(int_instance, int)
-isinstance(int, object)
-isinstance(int_instance, object)
-isinstance(int, int)
-isinstance(int_instance, int)
+print(issubclass(int, object)) # True
+print(issubclass(int_instance, object)) # Error
+print(issubclass(int, int)) # True
+print(issubclass(int_instance, int)) # Error
+print(isinstance(int, object)) # True
+print(isinstance(int_instance, object)) # True
+print(isinstance(int, int)) # False
+print(isinstance(int_instance, int)) # True
 
-issubclass(str, object)
-issubclass(str_instance, object)
-issubclass(str, str)
-issubclass(str_instance, int)
-isinstance(str, object)
-isinstance(str_instance, object)
-isinstance(str, str)
-isinstance(str_instance, str)
+print(issubclass(str, object)) # True
+print(issubclass(str_instance, object)) #Error
+print(issubclass(str, str)) # True
+print(issubclass(str_instance, int)) # Error
+print(isinstance(str, object)) # True
+print(isinstance(str_instance, object)) # True
+print(isinstance(str, str)) # False
+print(isinstance(str_instance, str)) #True
 ```
 
 ### 2.2 Type Meta-Class
